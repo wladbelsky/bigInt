@@ -1,0 +1,4 @@
+﻿  bigInt.cpp
+c:\users\wladbelsky\google drive\progs\c++\bigint\bigint\bigint.cpp(272): warning C4715: 'bigInt::moduleCompare': not all control paths return a value
+c:\users\wladbelsky\google drive\progs\c++\bigint\bigint\bigint.cpp(285): warning C4715: 'bigInt::signCompare': not all control paths return a value
+  bigInt.vcxproj -> C:\Users\wladbelsky\Google Drive\Progs\C++\bigInt\x64\Debug\bigInt.exe
